@@ -7,6 +7,7 @@
 Quadrinhos sobre a criação do mundo para crianças
 
 ## 🤖 Tecnologias Utilizadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 IA Generativa **[ChatGPT](https://chat.openai.com/)** para roteirização;
 IA Generativa **[Leonardo AI](https://leonardo.ai/)** para criar a arte visual;
 
